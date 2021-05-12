@@ -1,6 +1,6 @@
 module.exports = {
-  title: "👾 The LAO - FAQs", // 🎉
-  description: "The LAO Documentation",
+  title: "The 🦍 Apes & Ninjas 🥷  - FAQs", // 
+  description: "Apes & Ninjas Documentation",
   theme: "default-prefers-color-scheme",
   // for theme configuration, see https://vuepress.vuejs.org/theme/default-theme-config.html
   themeConfig: {
@@ -8,9 +8,9 @@ module.exports = {
     // by default, this theme uses the user's browser preferences to set either
     // light for dark.  I overrode it to always be dark for now to match LAO stylez.
     defaultTheme: "dark",
-    logo: "/lao-logo-animated-medium.gif",
+    logo: "/a-and-n-logo.png",
     /* standard vuepress themeConfig options */
-    repo: "openlawteam/lao-docs",
+    repo: "Apes-Ninjas/A-N-docs",
     docsDir: "docs",
     editLinks: true,
     // custom text for edit link. Defaults to "Edit this page"

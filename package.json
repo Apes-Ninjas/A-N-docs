@@ -1,7 +1,7 @@
 {
-  "name": "lao-docs",
+  "name": "an-docs",
   "version": "0.1.0",
-  "description": "LAO Documentation",
+  "description": "Apes & Ninjas Documentation",
   "private": true,
   "main": "index.js",
   "scripts": {
