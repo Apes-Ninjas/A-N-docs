@@ -25,6 +25,7 @@ By celebrating the apes, we are providing a space to be who you are no matter th
 
 * We will also take over the digital space, reclaiming freedom of speech by encoding all messages directed to Apes & Ninjas in an emoji cypher, only the Apes & Ninja holders will be able to make sense of these messages, and engage in truly open and free conversations.
 
+* The A&N Platform is built with the premise that experience and information must have tangible value, for such the quality of the information provided must be taken into consideration, not that the platform will have any type of censorship, but valuable, actionable information will be rewarded.
 
 * Narrative is important, but just because we like to create stories, does it mean that those stories don't matter, there is freedom in creativity, and that freedom provides the cover for us to target an objective.  Once you understand the cypher, keep it to yourself, knowledge and information are valuable. If someone wants access they must become an Ape or a Ninja.
 
