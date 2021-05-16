@@ -1,4 +1,4 @@
-# Investments
+# Grants
 
 ## How do members of The LAO make investment decisions?
 

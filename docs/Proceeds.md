@@ -1,4 +1,4 @@
-# Proceeds from Investments
+# Distribution of Proceeds
 
 ## Should The LAO members expect to receive any profit by contributing to The LAO?
 

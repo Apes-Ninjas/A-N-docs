@@ -1,4 +1,4 @@
-# Smart Contracts
+# Credits
 
 ## What smart contracts are being used for The LAO?
 

@@ -1,4 +1,4 @@
-# Membership
+# Clan Membership
 
 ## How can I contribute to The LAO and become a member?
 
