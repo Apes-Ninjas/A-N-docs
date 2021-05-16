@@ -1,29 +1,43 @@
 # Distribution of Proceeds
 
-## Should The LAO members expect to receive any profit by contributing to The LAO?
+The proceeds that come from the acquisition of Apes and Ninjas will be locked in the A&N DAO, and some of the funds will be distributed to the core team of developers and investors.
 
-Investments contemplated by The LAO are inherently speculative and are made by The LAO members or their express designees and agents. The results of The LAO's investments will likely vary from period to period, and investments made by The LAO will involve a high degree of financial and market risk that can result in a complete loss of any member's contribution to The LAO.
+## Shoguns 
+Initial investors and the founders will receive a total of Ξ 100 each, at the moment the A&N DAO reaches it's funding goal of Ξ 3000. At the moment there are only 3 of us, we will also be awarded 1 Shogun Access Token each, making the total of circulating Shoguns to 7.  
 
-## If I'm a member of The LAO, what interest do I receive in any projects that receive financing from The LAO?
+Any person or institution that pre-purchase a Shogun in the early stages of the project may receive this return.
 
-The LAO will be the record holder of all securities and/or any other rights secured via The LAO-related investments. Members, acting via a majority vote, will have the right to determine the amount, timing, and form of all distributions related to proceeds from those investments.
+## Ninjas and Higher Apes:
 
-## How will proceeds be distributed?
+The Ninjas and Higher Apes that form a Clan will receive 50% of the sales of the Access Tokens to their respective clans, the other 50% will be sent to the A&N DAO.
 
-Members will receive proceeds, if any, on a pro-rata basis based on the number of LAO Units each member holds.
+## Artists
+Artists that create the Jonin Clan Themes will receive a 20% Royalty that will be deducted from the share directed to the DAO.
 
-If a member [rage quits](/RageQuitting), the member will be entitled to receive proceeds from any investments made by The LAO prior to the member's withdrawal of capital to the extent permitted by law or the terms of an investment (e.g., if The LAO makes an investment in securities with transfer restrictions, The LAO itself will be the record holder until those restrictions lift). However, the member will not be entitled to distribution with respect to any investments made by The LAO after the date the member quits The LAO.
+## Product Development
+A Budget will be set for the development of the following products:
 
-Please note, that prior to proceed distribution, members must provide a copy of the applicable Form W-9 or Form W-8, when requested by the service provider.
+1. **A&N DAO and NJN Token:** Development of the DAO smart contract that will be governed by the NJN Token, the details of the tokenomics and distribution will come soon.
 
-## Will proceeds be paid in Ether, Dai, or cash?
+2. **A&N Mobile Application:** An Android and iOS application with Augmented Reality capabilities to be able to interact with the Jungle Rooms and have access to the IRL events that will be produced for the community, and other features that will be determined by the DAO.
 
-Members have the right to determine how proceeds will be paid.
+3. **A&N Browser Extension**  A browser extension that will encrypt and decrypt messages to be sent to the A&N community via legacy social media.
 
-## Can The LAO recycle or reinvest proceeds?
+4. **A&N Token Leasing Contract**  A smart contract to be able to lease your Access token for a fee or for free, that will then revert to the owner once the event or time lapse has expired
+5. **Cross Blockchain Integration** The A&N Platform must be inclusive of all major crypto networks, Bitcoin will be next, to then expand to other projects.
 
-Members acting by a majority vote may reinvest or retain for investment any proceeds to effect The LAO investments, pay expenses (outlined [here](/FeesExpensesCarry) or otherwise provided for in The LAO's Operating Agreement), or create reserves.
+## A&N Family Gathering
+The first gathering of the Ninjas & Apes will be determined on launch, with a budget and location determined at such time.  All the other events will have to apply to receive a grant.
+## Operations
+A budget will be set apart for regular operations that will include:
+* Community Management
+* Q/A
+* A&N Support
 
-## If a member votes against a proposed deal, but does not “rage quit,” will he or she still benefit from possible future profits? In other words, are all projects’ possible future returns shared equally amongst the members?
+And to cover the costs of Cloud Service providers and other fixed costs.
 
-Yes, the member would benefit from the future profits even if the member voted against the investment.  In effect, you're agreeing to the will of the voting members and if you don't like the decision you have the right to rage quit all or part of your undeployed Ether.
+## Grants
+Grants will be where most of the capital will be allotted to, this capital will be deployed to:
+1. **Artist Grants**, Art plays a crucial part to generate culture change, a part of the treasury will be reserved for supporting street art projects to promote the A&N ecosystem.
+2. **Event Production**, Life is a celebration, and we become stronger when we gather in person, Any A&N community member will be able to apply for a grant to throw parties and meetups for the community.
+

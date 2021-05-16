@@ -1,26 +1,32 @@
 # A&N First Generation
 
-## How do I establish my accreditation status?
+## Total A&N Community
 
-During member onboarding, members will be asked to provide applicable documentation in order for The LAO to verify your status as an accredited investor. This may include:
+#### 10,000 Apes
+#### 1475 Ninjas
+## Different Levels
 
-- documentation verifying your income or net worth;
-- written confirmation from a registered broker-dealer or investment advisor, licensed attorney, or certified public accountant as to the member's accreditation status; and
-- various forms, including a Form W-2, Form 1099, bank or brokerage statements, other statements of securities holdings, and other applicable documentation to ensure that you meet the definition of an accredited investor.
+The first generation of Apes & Ninjas will consist of:
 
-If you're acting on behalf of a legal entity, you may need to provide:
+### 10 Shoguns
+    3 - Reserved for the founding team and investor.
+    7 - Put in pre-sale for initial development.
 
-- verification of that entity's assets; and
-- verification of your sophistication.
+### 13 Jōnin with 150 Apes
+These Ninjas will be able to choose between Skin or Street Art, there will be 7 street and 6 tattoo artist will customize the traits and overall look of the Apes that will form this clan.   After a certain sales threshold is met, these Ninja will be entitled to the execution of a mural or tattoo respectively by the artist of their clan, the DAO will fly the artist to whatever part of the world the Ninja wants to do the work.
 
-## I'm a foreign investor interested in becoming a member of The LAO. Are non-U.S. investors able to become a member in The LAO?
+### 25 Chūnin with 100 Apes
+These Ninjas will be able to birth kick ass Apes to form their clan.
 
-Non-U.S. based investors are permitted to become members of The LAO. Non-U.S. based contributors must verify their identity in order to contribute.
+### 75 Genin with 21 Apes 
+These Ninjas will be able to birth kick ass Apes to form their clan.
 
-## How long does it take to verify my application?
+### 150 Sophisticated Apes with 10 peers
+These Apes will have a clan of their own!
 
-Accreditation and verification of Members will take several business days to be processed by The LAO. We will notify you during the verification, with any questions or concerns. After this point, the current members of The LAO will approve your application based on social media profile.
+### 200 Enthusiastic Apes with 5 peers
+These Apes will have a clan of their own!
 
-## Who will see the accreditation and other documents that I upload?
+### 1125 Rogue Apes
+Still awesome, still valuable, these apes will be able to join clans to gain experience and move up the ranks.
 
-The documentation that you upload as evidence of your accreditation status are kept private and are used to verify that you meet the definition of an accredited investor.
