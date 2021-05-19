@@ -2,24 +2,18 @@
 
 ## How are voting rights determined?
 
-Voting rights will be based on the total number of LAO Units that each member holds for any relevant vote posed to members.
+Voting rights will be based on a 1 person 1 vote manner, while we value whales, we want to incentivize participation. 
+
+Only Shoguns will have a tie breaking vote.
 
 ## How do members vote?
 
-Members will be prompted to vote via The LAO DApp (or, over time, other online services) at various points during the lifecycle of The LAO, including to evaluate investment decisions, weigh-in on the structure and form of The LAO, and/or other strategic decisions related to The LAO.
+Members will be prompted to vote via The A&N Platform and in the Governance Telegram group.
 
-Voting is primarily facilitated by blockchain-based smart contracts and all voting records will be searchable via the DApp and recorded to the Ethereum blockchain.
+Voting is primarily facilitated by blockchain-based smart contracts and all voting records will be searchable via the platform and recorded to the Ethereum blockchain.
 
-For governance-related decisions, The LAO has implemented Snapshot-like voting (which is gasless) and also has implemented processes to make investment decisions using through gasless voting tools available via the Dapp.
+For governance-related decisions, The A&N Platform has implemented Snapshot-like voting (which is gas-less) and also has implemented processes to make investment decisions using through gas-less voting tools available via the Platform.
 
-## Can a member transfer its voting rights for purposes of making investment decisions?
+## Simple Majority decisions
+When there is a decision to be made around the approval of grants a simple majority will suffice, the only requirement for these decisions to be final is that the term has expired and that the vote was properly announced in the Platform and the Telegram Group. 
 
-Members are not required to vote on all matters. At any point in time, a member can transfer or "delegate" the member's right to vote on investment decisions by designating via the DApp an Ethereum address for which such right is delegated to. Decisions to delegate any voting rights are entirely up to each member and members cannot delegate to another member.
-
-## Does delegating rights to vote on investment decisions impact a member's right to proceeds?
-
-No.
-
-## Can a member cancel and/or re-delegate their voting rights?
-
-A member can cancel and/or re-delegate its voting rights through the DApp at any time.

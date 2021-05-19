@@ -1,9 +1,10 @@
 # A&N First Generation
-
+![First generation](/1stGen.png "Logo Title Text 1")
 ## Total A&N Community
 
 #### 10,000 Apes
-#### 1475 Ninjas
+#### 113 Ninjas
+#### 13 Shoguns
 ## Different Levels
 
 The first generation of Apes & Ninjas will consist of:

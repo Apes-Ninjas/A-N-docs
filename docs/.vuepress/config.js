@@ -1,5 +1,5 @@
 module.exports = {
-  title: "The 🦍 Apes & Ninjas 🥷  - FAQs", // 
+  title: "The 🦍  & 🥷  - FAQs", // 
   description: "Apes & Ninjas Documentation",
   theme: "default-prefers-color-scheme",
   // for theme configuration, see https://vuepress.vuejs.org/theme/default-theme-config.html
@@ -28,10 +28,10 @@ module.exports = {
       "Treasury",
       "VotingRights",
       "Grants",
-      "RageQuitting",
+      "SmartContracts",
       "Credits",
-      "Glossary",
-      "DISCLAIMER",
+   /*    "Glossary",
+      "DISCLAIMER", */
     ]
     // set up search integration below (requires account registration/approval as OSS project)
     // algolia: {

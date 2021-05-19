@@ -1,15 +1,19 @@
 # Treasury
 
-## Management of funds
+## Proceed of funds
 
-Using a digital wallet, such as [MetaMask](https://metamask.io/), or a wallet compatible with [WalletConnect](https://walletconnect.org/) members can contribute to the LAO after they have been approved (i.e., verified as an accredited investor, passed KYC/AML checks, etc., as applicable and as further outlined [here](/Membership)).
+Using a digital wallet, such as [MetaMask](https://metamask.io/), or a wallet compatible with [WalletConnect](https://walletconnect.org/) distinguished members of the crypto community will be able to acquire Access Tokens that will have the form of Apes or Ninjas, depending on the score their wallet gets.
 
-## Featured Artists
+Direct sales of the first generation of Ninjas will enter directly to the treasury, and the sales of Apes belonging to a Clan will be split 50%/50% between the head of the Clan and the A&N Platform
 
-Ether contributions will be wrapped as ERC-20 tokens (wETH) to allow for a seamless interaction with The LAO smart contracts (described further [here](/SmartContracts)). The ERC-20 standard streamlines how tokens are tracked and transferred between parties. Ether itself predates the ERC-20 standard, and it did not come with a built in standard of how to track and trade tokens amongst parties. The conversion from Ether to wETH addresses this concern.
+## Management of Funds
 
-## Community Building
+Ether contributions will be wrapped as ERC-20 tokens (wETH) to allow for a seamless interaction with The A&N DAO smart contracts (described further [here](/SmartContracts)). The management of these funds will be done by the A&N DAO
 
-The members, acting by majority vote, have the right to elect to invest capital contributions to The LAO in either Ether, Bitcoin, and/or fee or interest bearing cryptocurrencies or other digital assets.
+## Pre-DAO use of funds
+
+The funds that are raised before the DAO is launched will be administered by a MultiSig wallet, that will be controlled by the founders. No more than 70 Ether will be available for this first stage.
 
 ## Dev Fund
+
+There will be a fund set aside to develop the A&N Platform further. The details of the destination of the proceeds can be found [here](/Proceeds)

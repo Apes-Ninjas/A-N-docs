@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "apesnninjasdocs",
+    "public": "docs/.vuepress/dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

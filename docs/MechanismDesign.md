@@ -4,7 +4,7 @@ The creation of the A&N platform is coupled with the intention of building a rep
 ## Introducing the characters
 We have created this project by reaching into the bounty of meme culture and the richness of Japanese history, we aim to treat both with respect and make the most to carry on their strength and authenticity into the metaverse. 
 ### Shogun 
-#### Total Availability: 10 / Initial Clan Size: 10000 Apes 1475 Ninjas
+#### Total Availability: 10 / Initial Clan Size: 10000 Apes 113 Ninjas
 The Shogun are the initial investors and founders of the Apes & Ninjas. They play a crucial role in maintaining the coherence in the actions and decisions taken, with the founding principles. They are a rare breed and will get expanded in the future
 ### Jōnin Ninja
 #### Total Availability: 13 / Initial Clan Size: 150 Apes
@@ -84,7 +84,7 @@ Decentralization is worth nothing if we don't participate in its governance, vot
 Value of the A&N token is highly correlated to the strength and diversity of its community, no bonding curves required, just a discerning and vibrant group of individuals that believe in what the A&N ecosystem stands for.
 
 ### Monetizing your Clan
-Ninjas and higher Apes are able to birth Apes that will be part of their clans, they can then sell them in the A&N Marketplace where they will earn 80% of the sales price while 20% will stay for the A&N treasury.
+Ninjas and higher Apes are able to birth Apes that will be part of their clans, a Ninja can choose to receive one Ape to their wallet, the rest of their Apes will be placed at the minimum suggested price, or at the price set by the Ninja, in the A&N Marketplace where they will earn 50% of the sales price while 50% will stay for the A&N treasury.
 
 ### Proven rarity
 The Apes & Ninjas will have specific character traits that will be awarded to those whose wallets pass to be the higher apes or ninjas.

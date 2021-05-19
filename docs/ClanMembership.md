@@ -16,3 +16,7 @@ Apes can be recruited to a clan in 2 ways.
 Here is where you have to be really careful, when you transfer an Ape from your clan, that transaction is final, and they will always be a part of it.  That is why these Apes will be expensive. 
 
 Now Rogue Apes that you recruit can be ousted from your clan, so you can add them sparingly.
+
+## DISCLAIMER 
+
+NONE OF THE INFORMATION PRESENTED IN THE CLANS AND THE A&N PLATFORM IS NOT FINANCIAL ADVISE, AND THE A&N PLATFORM IS NOT A FINANCIAL ADVISOR, ALL THE INFORMATION AND GAME MECHANICS ARE BUILT FOR LUDIC AND EDUCATIONAL  PURPOSES.
