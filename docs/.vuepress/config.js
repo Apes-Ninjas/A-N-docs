@@ -1,5 +1,5 @@
 module.exports = {
-  title: "The 🦍  & 🥷  - FAQs", // 
+  title: "🦍  & 🥷  Docs", // 
   description: "Apes & Ninjas Documentation",
   theme: "default-prefers-color-scheme",
   // for theme configuration, see https://vuepress.vuejs.org/theme/default-theme-config.html

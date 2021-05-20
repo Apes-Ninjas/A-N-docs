@@ -17,7 +17,7 @@ By celebrating the apes, we are providing a space to be who you are no matter th
 ## Apes & Ninjas of the Metaverse...
 
  ### The future is here and it is open to us!  The changing of the guard is upon us, and we have all that is required to bring about the change that will go beyond a "Reset" or a "better" backing to rebuild, we are the change that is not foreseen, the black swan in form of a pack of Gorillas that are guided by Ninjas to shape the world to our needs. 
-### We are not looking to create an alternative, we are going to take over the existing structures and make them adapt to our needs for free a sovereign existence.
+### We are not looking to create an alternative, we are going to take over the existing structures and make them adapt to our needs for free and sovereign existence.
 
 * We will do this in an Autonomous and Distributed manner, The A&N DAO will be represented on a 1 Person 1 Vote manner, and only those that believe in what we do and place their capital and effort (Shoguns) will have a casting vote (tie-breaker).  Governance will be done with the NJN token.
 

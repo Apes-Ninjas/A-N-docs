@@ -45,7 +45,7 @@ IRL access will also be created by the community by securing "jungle rooms" or p
 
 ## How can I acquire an Ape or a Ninja?
 
-### 1. In the genesis drop.
+### 1. In the First Generation NFT drop.
 In order to acquire the access tokens, you must be here at the right time, and connect your ethereum wallet to the system, your transaction history, current holdings and overall experience will determine the type of Ape or Ninja you can acquire.
 
 ### 2. In the A&N Marketplace
